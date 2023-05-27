@@ -1,0 +1,30 @@
+.Container {
+    width: 80vw;
+    background-color: black;
+    color:white;
+    font-weight: lighter;
+    display: grid;
+    border-radius: 15px;
+    margin: 2vh 0 0 8vw;
+    padding: 0 0 3vh 5vw;
+}
+
+.Container h3 {
+    color: #FFFB92;
+    font-weight: lighter;
+}
+
+img {
+    width: 74vw;
+    border-radius: 10px;
+}
+
+button {
+    width: 74vw;
+    padding: .8em;
+    color: white;
+    background-color: #1E1E1E;
+    font-family: 'Merriweather', serif;
+    border: 1px solid transparent;
+    border-radius: .30rem;
+}

@@ -1,0 +1,18 @@
+.Container {
+    background-color: black;
+    color: white;
+    height: 90vh;
+    width: 100vw;
+    position: absolute;
+    margin-top: 98vh;
+    text-align: center;
+    z-index: 50;
+
+    
+   /*  justify-content: center; */
+}
+
+.Container h5 {
+    padding: 0.4em 0 0.4em 0;
+    font-weight: lighter;
+}
